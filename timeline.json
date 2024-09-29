@@ -20,8 +20,8 @@
   "success_rate": "98%",
   "cards": {
     "Available Project": {
-      "total": 790,
-      "completed": 375,
+      "total": 3,
+      "completed": 183,
       "items": [
         {
           "title": "ISP Gen",
