@@ -44,8 +44,8 @@
       ]
     },
     "Available Mission": {
-      "available": 800,
-      "completed": 500,
+      "available": 8,
+      "completed": 3400,
       "items": [
         {
           "title": "Mission A",
@@ -62,12 +62,12 @@
     },
     "Available Error": {
       "available": 900,
-      "solved": 800,
+      "completed": 800,
       "items": []
     },
     "Available Ticket": {
       "available": 500,
-      "solved": 300,
+      "completed": 300,
       "items": []
     }
   }
