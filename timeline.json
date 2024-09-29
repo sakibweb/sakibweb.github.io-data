@@ -17,5 +17,58 @@
     "current_session": "2m"
   },
   "performance_rating": 4.7,
-  "success_rate": "98%"
+  "success_rate": "98%",
+  "cards": {
+    "Available Project": {
+      "total": 790,
+      "completed": 375,
+      "items": [
+        {
+          "title": "ISP Gen",
+          "status": "Acctive",
+          "description": "Robert Nolan completed the design of the CRM application",
+          "progress": 59
+        },
+        {
+          "title": "Dashboard Dev",
+          "status": "Pending",
+          "description": "The dashboard module development is in progress",
+          "progress": 40
+        },
+        {
+          "title": "UI Revamp",
+          "status": "Fail",
+          "description": "UI revamp project was halted due to missing requirements",
+          "progress": 10
+        }
+      ]
+    },
+    "Available Mission": {
+      "total": 800,
+      "completed": 500,
+      "items": [
+        {
+          "title": "Mission A",
+          "status": "Acctive",
+          "description": "Mission A was successfully executed.",
+          "progress": 90
+        }
+      ]
+    },
+    "Available Task": {
+      "total": 700,
+      "completed": 600,
+      "items": []
+    },
+    "Available Error": {
+      "total": 900,
+      "solved": 800,
+      "items": []
+    },
+    "Available Ticket": {
+      "total": 500,
+      "solved": 300,
+      "items": []
+    }
+  }
 }
