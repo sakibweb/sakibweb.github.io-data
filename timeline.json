@@ -20,7 +20,7 @@
   "success_rate": "98%",
   "cards": {
     "Available Project": {
-      "total": 3,
+      "available": 3,
       "completed": 183,
       "items": [
         {
@@ -44,7 +44,7 @@
       ]
     },
     "Available Mission": {
-      "total": 800,
+      "available": 800,
       "completed": 500,
       "items": [
         {
@@ -56,17 +56,17 @@
       ]
     },
     "Available Task": {
-      "total": 700,
+      "available": 700,
       "completed": 600,
       "items": []
     },
     "Available Error": {
-      "total": 900,
+      "available": 900,
       "solved": 800,
       "items": []
     },
     "Available Ticket": {
-      "total": 500,
+      "available": 500,
       "solved": 300,
       "items": []
     }
