@@ -1,1 +1,17 @@
-
+{
+  "daily_time": "11:00am - 11:00pm",
+  "active_time": {
+    "total_time": "9898h",
+    "current_session": 790
+  },
+  "deactive_time": {
+    "total_time": "9898h",
+    "current_session": 790
+  },
+  "break_time": {
+    "total_time": "9898h",
+    "current_session": 790
+  },
+  "performance_rating": 4.7,
+  "success_rate": "98%"
+}
