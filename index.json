@@ -1,3 +1,33 @@
 {
-    "new_key": "new_value"
+  "profile": {
+    "name": "SakibWeb",
+    "tagline": "Full-stack Development",
+    "location": "Natore, Rajshahi",
+    "email": "sakibdev.me@gmail.com",
+    "phone": "+8801774321010",
+    "socials": [
+      { "platform": "Developers Google", "icon": "fa-google", "link": "https://g.dev/sakibweb" },
+      { "platform": "Google Cloud", "icon": "fa-cloud", "link": "https://www.cloudskillsboost.google/public_profiles/1e8bc788-27e0-4078-a5fb-134f4aff7074" },
+      { "platform": "Github", "icon": "fa-github", "link": "https://github.com/sakibweb" },
+      { "platform": "Linkedin", "icon": "fa-linkedin-in", "link": "https://www.linkedin.com/in/sakibweb" },
+      { "platform": "Facebook", "icon": "fa-facebook", "link": "https://www.facebook.com/sakib1997" },
+      { "platform": "Twitter", "icon": "fa-twitter", "link": "https://twitter.com/sakibwebs" }
+    ]
+  },
+  "stats": [
+    { "title": "Project completed", "value": "375", "icon": "fa-bars-progress", "class": "text-primary" },
+    { "title": "Mission Completed", "value": "12.6K", "icon": "fa-cubes-stacked", "class": "text-secondary" },
+    { "title": "Task Completed", "value": "143", "icon": "fa-list-check", "class": "text-info" },
+    { "title": "Complex error solved", "value": "651", "icon": "fa-bug", "class": "text-success" },
+    { "title": "Chat & ticket solved", "value": "460", "icon": "fa-ticket", "class": "text-error" },
+    { "title": "Time spending", "value": "460", "icon": "fa-business-time", "class": "text-warning" },
+    { "title": "Performance rating", "value": "460", "icon": "fa-person-running", "class": "text-navy-400" },
+    { "title": "Success rate", "value": "460", "icon": "fa-thumbs-up", "class": "text-slate-150" }
+  ],
+  "gallery": [
+    { "img": "images/800x600.png", "alt": "img1" },
+    { "img": "images/800x600.png", "alt": "img2" },
+    { "img": "images/800x600.png", "alt": "img3" },
+    { "img": "images/800x600.png", "alt": "img4" }
+  ]
 }
