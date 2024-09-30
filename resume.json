@@ -32,5 +32,31 @@
       "duration": "2018(Jan-Jun)",
       "registration": "3000036037"
     }
+  ],
+  "academic": [
+    {
+      "title": "Bachelor of Science(BSc)",
+      "major": "Geography and Environment",
+      "institute": "Shahid Shamsuzzoha College",
+      "roll": "2112351",
+      "result": "Appeared",
+      "year": "2017"
+    },
+    {
+      "title": "Higher Secondary Certificate(HSC)",
+      "major": "Business Studies",
+      "institute": "Shahid Nazmul Haque College",
+      "roll": "505712",
+      "result": "2nd Division",
+      "year": "2016"
+    },
+    {
+      "title": "Secondary School Certificate(SSC)",
+      "major": "Humanities",
+      "institute": "Naldanga High School",
+      "roll": "520911",
+      "result": "2nd Division",
+      "year": "2014"
+    }
   ]
 }
